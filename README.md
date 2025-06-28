@@ -319,7 +319,8 @@ This document outlines the comprehensive features and functionalities required f
 
 The backend feature system can be viewed in the diagram below:
 
-![alt text](image.png)
+> ![Airbnb Backend Features Diagram](./backend-features.png)
+<!-- ![alt text](image.png) -->
 
 ---
 
