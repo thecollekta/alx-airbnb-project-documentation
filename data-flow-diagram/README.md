@@ -84,7 +84,7 @@ This document provides a comprehensive analysis of the Data Flow Diagram (DFD) f
 
 ## Data Flow Diagram
 
-> ![Data Flow Diagram](./data-flow.png)
+> ![Data Flow Diagram](./data-flow-diagram.png)
 
 ## Data Flow Analysis
 
